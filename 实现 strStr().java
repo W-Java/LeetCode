@@ -27,7 +27,6 @@ class Main {
   public static void main(String[] args) {
     String haystack = "hello";
     String needle = "ll";
-
     int result = new Solution().strStr(haystack, needle);
     System.out.println(result);
   }
