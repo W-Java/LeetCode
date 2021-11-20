@@ -1,2 +1,3 @@
 # LeetCode
-Some of the leetcode titles I finished
+
+记录自己刷leetcode的题目
